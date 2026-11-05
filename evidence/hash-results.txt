@@ -1,0 +1,12 @@
+﻿
+
+Algorithm : SHA256
+Hash      : AF3B1F75FCB39623D890A299E218B359227106C60F245F1316928D29454848AE
+Path      : C:\Users\ACER\OneDrive\Desktop\Blue-Team-Task-20-Hash-Comparison\samples\original.txt
+
+Algorithm : SHA256
+Hash      : 5B890AD0AEE45FEA3E5065F2564587BC1CF93338A41FF8F6C21B8F96A4F14B12
+Path      : C:\Users\ACER\OneDrive\Desktop\Blue-Team-Task-20-Hash-Comparison\samples\received.txt
+
+
+
